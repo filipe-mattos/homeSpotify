@@ -1,0 +1,23 @@
+{
+  "name": "homespotify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipe-mattos/homeSpotify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipe-mattos/homeSpotify/issues"
+  },
+  "homepage": "https://github.com/filipe-mattos/homeSpotify#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6"
+  }
+}
